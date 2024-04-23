@@ -1,0 +1,22 @@
+.Meaning{
+    margin-top: 15px;
+    background: #cda4f97d;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    /* min-width: 600px; */
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-bottom: 25px;
+    text-shadow: rgb(153, 154, 153) 0px 0px 10px;
+    padding-left: 150px;
+    font-size: 25px;
+}
+
+.partOfSpeech{
+    font-size: 25px;
+}
+.example{
+    color: rgb(215, 247, 202);
+}

@@ -1,0 +1,76 @@
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+
+body{
+background-image: url(../src/flowers.jpg);
+background-size: cover;
+background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.Dictionary{
+    color: white;
+    padding-top: 30px;
+  overflow-x: scroll;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+.title{
+  color: white;
+    text-align: center;
+    letter-spacing: .17em;
+       font-family: "Cedarville Cursive", cursive;
+  font-weight: 400;
+  font-style: normal;
+   
+    font-size: 90px; 
+    font-weight: 550;
+    /* text-shadow: rgba(147, 176, 151, 0.809) 0px 0px 10px; */
+
+    padding-bottom: none;
+  
+}
+.form{
+ 
+
+    /* padding-top: 20px; */
+     margin: 0 auto;
+     text-align: center;
+
+
+}
+.input{
+    background-color: rgba(240, 248, 255, 0);
+   border: none;
+     border-bottom: 1px solid rgb(255, 255, 255);
+     margin-top: 20px;
+     /* margin-top: 170px;
+     margin-left: 340px; */
+    
+}
+.Typewriter{
+  color: white;
+    
+     text-align: center;
+     min-width: 60px;
+     white-space: nowrap;
+     letter-spacing: .17em;
+ 
+
+}
+
+::-webkit-scrollbar {
+   width: .1px;
+   background-color: #F5F5F5;
+    background: transparent;
+  
+}
+
