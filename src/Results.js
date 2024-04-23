@@ -24,10 +24,6 @@ export default function Results(props){
         )
 
     }else{
-        return(
-            <div>
-                "word not found, try again"
-            </div>
-        );
+        return null;
     }
 }
